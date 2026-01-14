@@ -51,17 +51,17 @@ Produces final class probabilities for medical diagnosis or analysis.
 
 Methodology
 
-Select multiple pretrained models from different source domains
+->Select multiple pretrained models from different source domains
 
-Freeze or partially fine-tune backbone layers
+->Freeze or partially fine-tune backbone layers
 
-Extract high-level feature representations
+->Extract high-level feature representations
 
-Fuse features into a unified representation
+->Fuse features into a unified representation
 
-Train a classifier using labeled target-domain medical images
+->Train a classifier using labeled target-domain medical images
 
-Evaluate performance across multiple classes and domains
+->Evaluate performance across multiple classes and domains
 
 Applications
 
