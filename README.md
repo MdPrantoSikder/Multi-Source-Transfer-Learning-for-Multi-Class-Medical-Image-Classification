@@ -65,23 +65,23 @@ Evaluate performance across multiple classes and domains
 
 Applications
 
-Disease classification from medical images
+->Disease classification from medical images
 
-Cross-hospital or cross-device image analysis
+->Cross-hospital or cross-device image analysis
 
-Low-resource medical imaging tasks
+->Low-resource medical imaging tasks
 
-Research in transfer learning and domain generalization
+->Research in transfer learning and domain generalization
 
 Technologies Used
 
-Python
+->Python
 
 Deep Learning Frameworks (e.g., TensorFlow / PyTorch)
 
-Pretrained CNN architectures
+->Pretrained CNN architectures
 
-Medical imaging datasets
+->Medical imaging datasets
 
 Expected Outcomes
 
@@ -93,13 +93,13 @@ Reduced dependency on large labeled medical datasets
 
 Future Work
 
-Incorporation of attention-based model weighting
+->Incorporation of attention-based model weighting
 
-Extension to multi-modal medical data
+->Extension to multi-modal medical data
 
-Domain adaptation and self-supervised learning integration
+->Domain adaptation and self-supervised learning integration
 
-Explainability and model interpretability for clinical trust
+->Explainability and model interpretability for clinical trust
 
 License
 
