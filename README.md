@@ -35,19 +35,19 @@ Framework Architecture
 The framework consists of the following components:
 
 Input Layer
-Accepts medical images from different modalities or domains.
+->Accepts medical images from different modalities or domains.
 
 Pretrained Feature Extractors
-Multiple deep learning models (e.g., CNN-based architectures) pretrained on different datasets are used to extract diverse feature representations.
+->Multiple deep learning models (e.g., CNN-based architectures) pretrained on different datasets are used to extract diverse feature representations.
 
 Feature Fusion Module
-Aggregates features from all pretrained models using techniques such as concatenation, weighted averaging, or attention-based fusion.
+->Aggregates features from all pretrained models using techniques such as concatenation, weighted averaging, or attention-based fusion.
 
 Classifier Head
-A trainable classification network that maps fused features to multiple medical classes.
+->A trainable classification network that maps fused features to multiple medical classes.
 
 Prediction Output
-Produces final class probabilities for medical diagnosis or analysis.
+->Produces final class probabilities for medical diagnosis or analysis.
 
 Methodology
 
