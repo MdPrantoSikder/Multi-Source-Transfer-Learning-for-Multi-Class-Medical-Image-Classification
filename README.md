@@ -20,9 +20,9 @@ Key Features
 
 Motivation
 
-Medical image analysis faces three major challenges:
+->Medical image analysis faces three major challenges:
 
-Limited labeled data due to privacy concerns and annotation costs
+->Limited labeled data due to privacy concerns and annotation costs
 
 Domain variability across scanners, hospitals, and imaging protocols
 
