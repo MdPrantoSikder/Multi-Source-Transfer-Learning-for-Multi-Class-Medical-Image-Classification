@@ -85,11 +85,11 @@ Deep Learning Frameworks (e.g., TensorFlow / PyTorch)
 
 Expected Outcomes
 
-Improved classification accuracy compared to single-source transfer learning
+->Improved classification accuracy compared to single-source transfer learning
 
-Better robustness to domain shifts
+->Better robustness to domain shifts
 
-Reduced dependency on large labeled medical datasets
+->Reduced dependency on large labeled medical datasets
 
 Future Work
 
