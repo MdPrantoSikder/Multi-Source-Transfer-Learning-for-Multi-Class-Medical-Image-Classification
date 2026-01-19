@@ -24,11 +24,11 @@ Motivation
 
 ->Limited labeled data due to privacy concerns and annotation costs
 
-Domain variability across scanners, hospitals, and imaging protocols
+->Domain variability across scanners, hospitals, and imaging protocols
 
-Poor generalization of single-source pretrained models
+->Poor generalization of single-source pretrained models
 
-By combining multiple pretrained models, the framework treats each model as a complementary feature extractor rather than relying on a single source of learned representations.
+->By combining multiple pretrained models, the framework treats each model as a complementary feature extractor rather than relying on a single source of learned representations.
 
 Framework Architecture
 
