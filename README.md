@@ -8,7 +8,7 @@ Medical imaging datasets are often limited, heterogeneous, and costly to annotat
 
 Key Features
 
--> Multi-class medical image classification
+->Multi-class medical image classification
 
 ->Multi-source transfer learning from heterogeneous pretrained models
 
