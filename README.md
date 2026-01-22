@@ -103,7 +103,7 @@ Future Work
 
 License
 
-This project is intended for academic and research purposes.
+->This project is intended for academic and research purposes.
 
 Author
 
