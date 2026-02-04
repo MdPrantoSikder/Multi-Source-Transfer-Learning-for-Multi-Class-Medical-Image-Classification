@@ -61,7 +61,7 @@ Methodology
 
 ->Train a classifier using labeled target-domain medical images
 
-->Evaluate performance across multiple classes and domains
+
 
 Applications
 
